@@ -1,7 +1,7 @@
 function validate(){
   var valEle = document.body.querySelector(".valMess");
   var username =document.body.querySelector(".username").value;
-  if(username==="1"){
+  if(username==="coolStudent123"){
     
   var nav = document.body.querySelector(".nav");
   var display =document.body.querySelector(".display");
